@@ -1,5 +1,4 @@
 # Smart-Card
-how I learn smart card 
 
 this is repository how I learn smart card while working in CIPTA SRIGATI LESTARI
 
